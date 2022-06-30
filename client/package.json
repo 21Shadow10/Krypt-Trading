@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "npm run build",
+    "serve": ""
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.4",
